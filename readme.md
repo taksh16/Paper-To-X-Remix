@@ -1,6 +1,6 @@
 # Paper-To-X Research Paper Processing API 
 
-#### From processed Research papers, Paper-To-X API using BART LLM and BertTokenizer transformer extracts the meaningful prompts from the summary and converts into Reels or Short format Videos to gain the user attraction without reading boring Research papers.
+#### From processed research papers, the Paper-To-X API, utilizing the BART LLM and BertTokenizer transformer, extracts meaningful prompts from summaries and converts them into short-format videos or reels to engage users without requiring them to read lengthy research papers.
 #### Features Include Voiceovers using GTTS , Options to select your favourite background music for video, Classic font size choices for your screen slides and to choose Images for your Video.
 ## Generated Short Videos Output of API
 
