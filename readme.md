@@ -4,6 +4,12 @@
 #### Features Include Voiceovers using GTTS , Options to select your favourite background music for video, Classic font size choices for your screen slides and to choose Images for your Video.
 ## Project Screenshots
 
+
+https://github.com/user-attachments/assets/4eeb8400-0a1e-4e01-bc2f-b48362866f22
+
+
+
+
 ### Home Output
 ![Summarized Output](./Images/home.png)
 
