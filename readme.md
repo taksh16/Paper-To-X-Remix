@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/4eeb8400-0a1e-4e01-bc2f-b48362866f22
 https://github.com/user-attachments/assets/54f85537-2aa1-42d7-ad92-29c0cbfdba5d
 
 
-### Home Output
+### Home Page
 ![Summarized Output](./Images/home.png)
 
 ### Upload Page
