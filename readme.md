@@ -24,11 +24,3 @@ https://github.com/user-attachments/assets/54f85537-2aa1-42d7-ad92-29c0cbfdba5d
 ![Processing Flow](./Images/download.png)
 
 
-
-
-## Installation & Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/mined.git
-   cd mined/backend
